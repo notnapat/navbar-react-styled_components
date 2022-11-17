@@ -1,0 +1,17 @@
+npm install react-router-dom
+npm install styled-components
+ติดตั้ง Xtension เพิ่ม ชื่อ Xtenston => vscode-styled-components
+
+src >>
+
+in App.js => 1, 1.1, 2.1
+
+new components 
+>> Navbar.js
+in Navbar.js => 2, 3.2, 3.3, 3.6, 3.7
+
+new styles
+>> Navbar.style.js
+in Navbar.style.js => 3, 3.1, 3.4, 3.5
+
+in App.css => 4? = ลบmagin ที่ body,
