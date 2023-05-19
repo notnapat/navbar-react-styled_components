@@ -4,7 +4,7 @@ npm install styled-components
 
 src >>
 
-in App.js => 1, 1.1, 2.1
+in App.js => 1, 1.1, 2.1, 2.2
 
 new components 
 >> Navbar.js
